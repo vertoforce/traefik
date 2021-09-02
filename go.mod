@@ -1,4 +1,4 @@
-module github.com/traefik/traefik/v2
+module github.com/vertoforce/traefik/v2
 
 go 1.16
 
@@ -9,7 +9,7 @@ require (
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/Microsoft/hcsshim v0.8.7 // indirect
 	github.com/Shopify/sarama v1.23.1 // indirect
-	github.com/abbot/go-http-auth v0.0.0-00010101000000-000000000000
+	github.com/abbot/go-http-auth v0.4.1-0.20200324110947-a37a7636d23e
 	github.com/abronan/valkeyrie v0.0.0-20200127174252-ef4277a138cd
 	github.com/aws/aws-sdk-go v1.37.27
 	github.com/cenkalti/backoff/v4 v4.1.0
@@ -31,7 +31,7 @@ require (
 	github.com/fatih/structs v1.1.0
 	github.com/gambol99/go-marathon v0.0.0-20180614232016-99a156b96fb2
 	github.com/go-acme/lego/v4 v4.4.0
-	github.com/go-check/check v0.0.0-00010101000000-000000000000
+	github.com/containous/check v0.0.0-20170915194414-ca0bf163426a
 	github.com/go-kit/kit v0.10.1-0.20200915143503-439c4d2ed3ea
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-github/v28 v28.1.1
